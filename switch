@@ -1,1 +1,127 @@
-<mxfile host="app.diagrams.net" modified="2021-02-15T16:17:58.366Z" agent="5.0 (Windows)" version="14.3.2" etag="dprgVJ2sCThJsTKBLLHr" type="github"><diagram id="yPRJVLp3OT3jasD9piZd">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-15T16:41:00.778Z" agent="5.0 (Windows)" etag="chJzsaXrI3dqGJdN2ROW" version="14.3.2" type="github">
+  <diagram id="yPRJVLp3OT3jasD9piZd" name="Page-1">
+    <mxGraphModel dx="988" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DX0vmlhm7L4QEnGoUD4O-6" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl254a_aruba_2930f_48g_4sfpplus_switch;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="757.33" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DX0vmlhm7L4QEnGoUD4O-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;startArrow=none;startFill=0;endArrow=none;endFill=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="DX0vmlhm7L4QEnGoUD4O-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="345" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DX0vmlhm7L4QEnGoUD4O-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="270" y="340" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DX0vmlhm7L4QEnGoUD4O-11" value="VLAN 9" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="349" y="95" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DX0vmlhm7L4QEnGoUD4O-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;noLabel=1;fontColor=none;strokeColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="423" y="340" width="151" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DX0vmlhm7L4QEnGoUD4O-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;strokeColor=#66CC00;" vertex="1" parent="1">
+          <mxGeometry x="117" y="340" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DX0vmlhm7L4QEnGoUD4O-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;startArrow=none;startFill=0;endArrow=none;endFill=0;targetPerimeterSpacing=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="275" y="118" as="targetPoint" />
+            <mxPoint x="190" y="338" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="190" y="118" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DX0vmlhm7L4QEnGoUD4O-15" value="VLAN 13" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="191" y="92" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DX0vmlhm7L4QEnGoUD4O-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;startArrow=none;startFill=0;endArrow=none;endFill=0;targetPerimeterSpacing=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="584.97" y="118" as="targetPoint" />
+            <mxPoint x="500.0044827586207" y="337.9999999999999" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="499.97" y="118" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DX0vmlhm7L4QEnGoUD4O-17" value="VMotion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="501" y="93" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DX0vmlhm7L4QEnGoUD4O-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;startArrow=none;startFill=0;endArrow=none;endFill=0;targetPerimeterSpacing=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="734.97" y="120" as="targetPoint" />
+            <mxPoint x="650.0044827586207" y="339.9999999999999" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="649.97" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DX0vmlhm7L4QEnGoUD4O-19" value="VSAN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="659.97" y="95" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DX0vmlhm7L4QEnGoUD4O-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;startArrow=none;startFill=0;endArrow=none;endFill=0;targetPerimeterSpacing=0;" edge="1" parent="1" target="DX0vmlhm7L4QEnGoUD4O-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="744.97" y="590" as="targetPoint" />
+            <mxPoint x="690" y="480" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="755" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DX0vmlhm7L4QEnGoUD4O-22" value="Admin port&lt;br&gt;via ssh" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;fontColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="480" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DX0vmlhm7L4QEnGoUD4O-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;startArrow=none;startFill=0;endArrow=none;endFill=0;targetPerimeterSpacing=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="240" as="targetPoint" />
+            <mxPoint x="134" y="349" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="134" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DX0vmlhm7L4QEnGoUD4O-24" value="Trunk VLAN 13, 9" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="35" y="220" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DX0vmlhm7L4QEnGoUD4O-25" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl254a_aruba_2930f_48g_4sfpplus_switch;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="757.33" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DX0vmlhm7L4QEnGoUD4O-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;noLabel=1;fontColor=none;strokeColor=#CC00CC;" vertex="1" parent="1">
+          <mxGeometry x="577" y="340" width="151" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DX0vmlhm7L4QEnGoUD4O-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;noLabel=1;fontColor=none;strokeColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="120" y="619" width="608" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DX0vmlhm7L4QEnGoUD4O-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;startArrow=none;startFill=0;endArrow=none;endFill=0;targetPerimeterSpacing=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="41" y="550" as="targetPoint" />
+            <mxPoint x="135" y="619" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="135" y="550" />
+              <mxPoint x="41" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DX0vmlhm7L4QEnGoUD4O-28" value="Trunk 195.161.164" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="530" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DX0vmlhm7L4QEnGoUD4O-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;startArrow=none;startFill=0;endArrow=none;endFill=0;targetPerimeterSpacing=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="500" as="targetPoint" />
+            <mxPoint x="384" y="619" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="384" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DX0vmlhm7L4QEnGoUD4O-30" value="External network" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="379" y="480" width="90" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
