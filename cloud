@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-02-15T16:12:49.895Z" agent="5.0 (Windows)" etag="0JEZK5Ip_F99kLlJV7o5" version="14.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-15T16:16:41.718Z" agent="5.0 (Windows)" etag="fjM4qNJt3ZADP6DFmvBW" version="14.3.2" type="github">
   <diagram id="KvM7r7ER2ngftujKcrXb" name="Page-1">
-    <mxGraphModel dx="1815" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2013" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jgev26sLABW-CU2seci0-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="jgev26sLABW-CU2seci0-2" target="jgev26sLABW-CU2seci0-7">
+        <mxCell id="jgev26sLABW-CU2seci0-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;targetPerimeterSpacing=0;shadow=0;sketch=0;dashed=1;" edge="1" parent="1" source="jgev26sLABW-CU2seci0-2" target="jgev26sLABW-CU2seci0-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="640" as="targetPoint" />
             <Array as="points">
@@ -18,7 +18,7 @@
             <mxPoint y="51" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jgev26sLABW-CU2seci0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" target="jgev26sLABW-CU2seci0-7">
+        <mxCell id="jgev26sLABW-CU2seci0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" edge="1" parent="1" target="jgev26sLABW-CU2seci0-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="113.5" as="sourcePoint" />
             <mxPoint x="410" y="660" as="targetPoint" />
@@ -33,7 +33,7 @@
             <mxPoint x="-2" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jgev26sLABW-CU2seci0-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="jgev26sLABW-CU2seci0-2" target="jgev26sLABW-CU2seci0-4">
+        <mxCell id="jgev26sLABW-CU2seci0-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;" edge="1" parent="1" source="jgev26sLABW-CU2seci0-2" target="jgev26sLABW-CU2seci0-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="30" y="120" />
@@ -46,7 +46,7 @@
             <mxPoint y="13.76" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jgev26sLABW-CU2seci0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="jgev26sLABW-CU2seci0-2" target="jgev26sLABW-CU2seci0-4">
+        <mxCell id="jgev26sLABW-CU2seci0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" edge="1" parent="1" source="jgev26sLABW-CU2seci0-2" target="jgev26sLABW-CU2seci0-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-30" y="112" />
@@ -142,6 +142,24 @@
         </mxCell>
         <mxCell id="jgev26sLABW-CU2seci0-27" value="Trunk VLAN 13, 9" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="45" y="40" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jgev26sLABW-CU2seci0-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;targetPerimeterSpacing=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="795" as="targetPoint" />
+            <mxPoint x="110" y="795" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jgev26sLABW-CU2seci0-29" value="10Gb connection" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="112" y="784" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jgev26sLABW-CU2seci0-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;startArrow=none;startFill=0;endArrow=none;endFill=0;targetPerimeterSpacing=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="830" as="targetPoint" />
+            <mxPoint x="110" y="830" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jgev26sLABW-CU2seci0-31" value="1Gb connection" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="117" y="820" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
