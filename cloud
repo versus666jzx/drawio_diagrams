@@ -1,1 +1,149 @@
-<mxfile host="app.diagrams.net" modified="2021-02-15T15:55:18.726Z" agent="5.0 (Windows)" version="14.3.2" etag="qmALewum3kSvyRbyiN7J" type="github"><diagram id="KvM7r7ER2ngftujKcrXb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-15T16:12:49.895Z" agent="5.0 (Windows)" etag="0JEZK5Ip_F99kLlJV7o5" version="14.3.2" type="github">
+  <diagram id="KvM7r7ER2ngftujKcrXb" name="Page-1">
+    <mxGraphModel dx="1815" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jgev26sLABW-CU2seci0-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="jgev26sLABW-CU2seci0-2" target="jgev26sLABW-CU2seci0-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="120" />
+              <mxPoint x="480" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jgev26sLABW-CU2seci0-12" value="VMs net - 192.168.9.0/24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="jgev26sLABW-CU2seci0-9">
+          <mxGeometry x="-0.1378" y="-1" relative="1" as="geometry">
+            <mxPoint y="51" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jgev26sLABW-CU2seci0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" target="jgev26sLABW-CU2seci0-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="113.5" as="sourcePoint" />
+            <mxPoint x="410" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="113" />
+              <mxPoint x="540" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jgev26sLABW-CU2seci0-13" value="AP Internet - 192.168.13.0/24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="jgev26sLABW-CU2seci0-11">
+          <mxGeometry x="-0.0926" y="2" relative="1" as="geometry">
+            <mxPoint x="-2" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jgev26sLABW-CU2seci0-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="jgev26sLABW-CU2seci0-2" target="jgev26sLABW-CU2seci0-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="30" y="120" />
+              <mxPoint x="30" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jgev26sLABW-CU2seci0-22" value="VSAN - 10.10.30.0/24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="jgev26sLABW-CU2seci0-20">
+          <mxGeometry x="-0.0133" relative="1" as="geometry">
+            <mxPoint y="13.76" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jgev26sLABW-CU2seci0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="jgev26sLABW-CU2seci0-2" target="jgev26sLABW-CU2seci0-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-30" y="112" />
+              <mxPoint x="-30" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jgev26sLABW-CU2seci0-23" value="VMotion - 10.10.20.0/24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="jgev26sLABW-CU2seci0-21">
+          <mxGeometry x="0.0742" y="1" relative="1" as="geometry">
+            <mxPoint y="-14.45" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jgev26sLABW-CU2seci0-2" value="local switch" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.switch;" vertex="1" parent="1">
+          <mxGeometry x="210" y="100" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jgev26sLABW-CU2seci0-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jgev26sLABW-CU2seci0-5" target="jgev26sLABW-CU2seci0-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="235" />
+              <mxPoint x="420" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jgev26sLABW-CU2seci0-15" value="External net - 195.161.164.67-73" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="jgev26sLABW-CU2seci0-14">
+          <mxGeometry x="-0.0317" relative="1" as="geometry">
+            <mxPoint y="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jgev26sLABW-CU2seci0-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jgev26sLABW-CU2seci0-5" target="jgev26sLABW-CU2seci0-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="240" />
+              <mxPoint x="140" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jgev26sLABW-CU2seci0-17" value="VCSA - 195.161.164.31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="jgev26sLABW-CU2seci0-16">
+          <mxGeometry x="-0.0915" y="-2" relative="1" as="geometry">
+            <mxPoint x="4" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jgev26sLABW-CU2seci0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jgev26sLABW-CU2seci0-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="230" />
+              <mxPoint x="90" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jgev26sLABW-CU2seci0-19" value="ESXI - 195.161.164.30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="jgev26sLABW-CU2seci0-18">
+          <mxGeometry x="0.0523" y="-2" relative="1" as="geometry">
+            <mxPoint x="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jgev26sLABW-CU2seci0-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="jgev26sLABW-CU2seci0-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jgev26sLABW-CU2seci0-5" value="external switch" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.switch;" vertex="1" parent="1">
+          <mxGeometry x="210" y="220" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jgev26sLABW-CU2seci0-8" value="ESXI with VCSA" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vmware_host;" vertex="1" parent="1">
+          <mxGeometry x="210" y="320" width="145.38" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="jgev26sLABW-CU2seci0-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="193.12" y="570" width="173.76" height="163" as="geometry" />
+        </mxCell>
+        <mxCell id="jgev26sLABW-CU2seci0-4" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vmware_host;" vertex="1" parent="jgev26sLABW-CU2seci0-10">
+          <mxGeometry width="145.38" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="jgev26sLABW-CU2seci0-6" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vmware_host;" vertex="1" parent="jgev26sLABW-CU2seci0-10">
+          <mxGeometry x="15.379999999999995" y="10" width="145.38" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="jgev26sLABW-CU2seci0-7" value="ESXI Nodes" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vmware_host;container=1;" vertex="1" parent="jgev26sLABW-CU2seci0-10">
+          <mxGeometry x="28.379999999999995" y="23" width="145.38" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="jgev26sLABW-CU2seci0-25" value="Trunk 195.161.164" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jgev26sLABW-CU2seci0-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="100" as="sourcePoint" />
+            <mxPoint x="160" y="50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jgev26sLABW-CU2seci0-27" value="Trunk VLAN 13, 9" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="40" width="110" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
