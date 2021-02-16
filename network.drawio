@@ -1,9 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-02-15T13:42:42.765Z" agent="5.0 (Windows)" etag="Xla8FwEx5sQhdcGbWfr_" version="14.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-16T17:56:15.253Z" agent="5.0 (Windows)" etag="PjILc_YKji1QYzikrxdW" version="14.3.2" type="github">
   <diagram id="MDXJFjJfNh9OXjP4r4t9" name="Page-1">
-    <mxGraphModel dx="2844" dy="2782" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="1">
+    <mxGraphModel dx="2031" dy="2330" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="V8Iq_MgeDnc4k7dZBruL-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;edgeStyle=orthogonalEdgeStyle;elbow=vertical;curved=1;" edge="1" parent="1" source="HdkyvseI2gNJO4S1q-cR-1" target="HdkyvseI2gNJO4S1q-cR-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="323" />
+              <mxPoint x="790" y="323" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HdkyvseI2gNJO4S1q-cR-1" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.cloud;" parent="1" vertex="1">
           <mxGeometry x="40" y="30" width="380" height="200" as="geometry" />
         </mxCell>
@@ -14,13 +22,13 @@
           <mxGeometry x="600" y="30" width="380" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HdkyvseI2gNJO4S1q-cR-5" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.cloud;" parent="1" vertex="1">
-          <mxGeometry x="600" y="340" width="380" height="200" as="geometry" />
+          <mxGeometry x="600" y="357" width="380" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="HdkyvseI2gNJO4S1q-cR-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;startArrow=classic;startFill=1;" parent="1" source="HdkyvseI2gNJO4S1q-cR-6" target="HdkyvseI2gNJO4S1q-cR-4" edge="1">
+        <mxCell id="HdkyvseI2gNJO4S1q-cR-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;startArrow=classic;startFill=1;edgeStyle=orthogonalEdgeStyle;elbow=vertical;curved=1;" parent="1" source="HdkyvseI2gNJO4S1q-cR-6" target="HdkyvseI2gNJO4S1q-cR-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="224" y="270" />
-              <mxPoint x="790" y="270" />
+              <mxPoint x="224" y="281" />
+              <mxPoint x="790" y="281" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -28,7 +36,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HdkyvseI2gNJO4S1q-cR-6" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.cloud;" parent="1" vertex="1">
-          <mxGeometry x="34" y="340" width="380" height="200" as="geometry" />
+          <mxGeometry x="34" y="357" width="380" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HdkyvseI2gNJO4S1q-cR-9" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.vpn;fillColor=#007AFF;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="110" y="80" width="60" height="60" as="geometry" />
@@ -37,16 +45,16 @@
           <mxGeometry x="670" y="80" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HdkyvseI2gNJO4S1q-cR-11" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.vpn;fillColor=#007AFF;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
-          <mxGeometry x="670" y="390" width="60" height="60" as="geometry" />
+          <mxGeometry x="670" y="407" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HdkyvseI2gNJO4S1q-cR-12" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.vpn;fillColor=#007AFF;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
-          <mxGeometry x="110" y="390" width="60" height="60" as="geometry" />
+          <mxGeometry x="110" y="407" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HdkyvseI2gNJO4S1q-cR-14" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.group;" parent="1" vertex="1">
           <mxGeometry x="227.10000000000002" y="110" width="62.47" height="70.4" as="geometry" />
         </mxCell>
         <mxCell id="HdkyvseI2gNJO4S1q-cR-15" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.virtual_machine;" parent="1" vertex="1">
-          <mxGeometry x="205" y="430" width="71.27" height="70" as="geometry" />
+          <mxGeometry x="205" y="447" width="71.27" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HdkyvseI2gNJO4S1q-cR-16" value="10.10.0.0/24" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="204.57" y="70" width="100" height="20" as="geometry" />
@@ -58,16 +66,16 @@
           <mxGeometry x="760" y="70" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HdkyvseI2gNJO4S1q-cR-19" value="External services Net" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="739.9999999999999" y="370" width="140" height="20" as="geometry" />
+          <mxGeometry x="739.9999999999999" y="387" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HdkyvseI2gNJO4S1q-cR-20" value="10.40.0.0/24" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="760" y="390" width="100" height="20" as="geometry" />
+          <mxGeometry x="760" y="407" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HdkyvseI2gNJO4S1q-cR-21" value="Internal services Net" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="179.99999999999994" y="370" width="130" height="20" as="geometry" />
+          <mxGeometry x="179.99999999999994" y="387" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HdkyvseI2gNJO4S1q-cR-22" value="10.30.0.0/24" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="195" y="390" width="100" height="20" as="geometry" />
+          <mxGeometry x="195" y="407" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HdkyvseI2gNJO4S1q-cR-23" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -103,7 +111,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HdkyvseI2gNJO4S1q-cR-35" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.service;" parent="1" vertex="1">
-          <mxGeometry x="784" y="429" width="71" height="71" as="geometry" />
+          <mxGeometry x="784" y="446" width="71" height="71" as="geometry" />
         </mxCell>
         <mxCell id="HdkyvseI2gNJO4S1q-cR-38" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.cloud;" parent="1" vertex="1">
           <mxGeometry x="341.45" y="-570" width="380" height="200" as="geometry" />
@@ -187,8 +195,8 @@
         <mxCell id="HdkyvseI2gNJO4S1q-cR-56" value="External services" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="690" y="-614.5" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aBs4PDxY5lOeT9mWl6iJ-1" value="Маршрут только до нужных сервисов,&lt;br&gt;а не ко всей 30 подсети" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="399" y="406" width="221" height="32" as="geometry" />
+        <mxCell id="aBs4PDxY5lOeT9mWl6iJ-1" value="Маршрут только до нужных сервисов,&lt;br&gt;а не ко всей 30 подсети" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FF3333;" parent="1" vertex="1">
+          <mxGeometry x="399" y="423" width="221" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
